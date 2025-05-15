@@ -1,4 +1,4 @@
-# 📊 Supervised Learning with One Variable
+# 📊 Linear regression with One Variable
 
 This project demonstrates the basics of supervised learning using **Linear Regression with one variable**. It's a foundational concept in machine learning used to predict a numerical output based on a single input feature.
 
